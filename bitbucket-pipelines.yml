@@ -1,0 +1,12 @@
+pipelines:
+ branches:
+   master:
+     - step:
+         script:
+           - git push git@git.wpengine.com:production/elephantdev.git master
+           - echo "Pushed to Production"
+   staging:
+     - step:
+         script:
+           - git push git@git.wpengine.com:staging/elephantdev.git staging
+           - echo "Pushed to Staging"
