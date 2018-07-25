@@ -1,0 +1,30 @@
+<?php
+$otw_sbm_grid_manager_object->labels['Save']=__('Save', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Save current page as Template']=__('Save current page as Template', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Quick Load Template']=__('Quick Load Template', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Close']=__('Close', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Please type template name']=__('Please type template name', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Content Row']=__('Content Row', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Add']=__('Add', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Delete']=__('Delete', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Add item']=__('Add item', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Add column']=__('Add column', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['The row is already full.']=__('The row is already full.', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Please confirm to remove the row']=__('Please confirm to remove the row', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Please confirm to remove the column']=__('Please confirm to remove the column', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Please confirm to remove the shortcode']=__('Please confirm to remove the shortcode', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Row with columns']=__('Row with columns', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels[' is not valid']=__(' is not valid', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Can not add column ']=__('Can not add column ', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Can not replace ']=__('Can not replace ', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels[' with ']=__(' with ', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['OTW Grid Manager Light']=__('OTW Grid Manager Light', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Info']=__('Info', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Add Row']=__('Add Row', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Add some rows and columns in the rows.<br />Then you will be able to add items (actual content) in the columns.']=__('Add some rows and columns in the rows.<br />Then you will be able to add items (actual content) in the columns.', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Choose column type']=__('Choose column type', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Advanced settings']=__('Advanced settings', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Mobile Grid']=__('Mobile Grid', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['The grid has two modes of adapting for small displays like phones.<br />The first requires no work at all - the grid will linearize on a small device so your columns stack vertically (all in one column). If you don’t know what you are doing leave it as is and it should be all fine.<br />The other mode can take your existing grid elements and attach them to a six column phone grid. This means you can have 1, 2 or 3 columns on mobile devices. Note that you need to have all columns in a given row set up correctly in order to make it work.<br />Here is an example of two columns in a row.<br />This is correct: 1/2 +1/2<br />This is incorrect: 2/3 + 1/2 because it is more than a full row<br />This is incorrect: 1/3 + 1/3 because it doesn’t make a full row.']=__('The grid has two modes of adapting for small displays like phones.<br />The first requires no work at all - the grid will linearize on a small device so your columns stack vertically (all in one column). If you don’t know what you are doing leave it as is and it should be all fine.<br />The other mode can take your existing grid elements and attach them to a six column phone grid. This means you can have 1, 2 or 3 columns on mobile devices. Note that you need to have all columns in a given row set up correctly in order to make it work.<br />Here is an example of two columns in a row.<br />This is correct: 1/2 +1/2<br />This is incorrect: 2/3 + 1/2 because it is more than a full row<br />This is incorrect: 1/3 + 1/3 because it doesn’t make a full row.', 'widgetize-pages-light');
+$otw_sbm_grid_manager_object->labels['Cancel']=__('Cancel', 'widgetize-pages-light');
+?>
