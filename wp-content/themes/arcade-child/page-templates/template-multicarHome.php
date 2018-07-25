@@ -66,7 +66,7 @@ CUSTOM FIELD LIST
                 <img style="height:16px" src="<?php echo get_stylesheet_directory_uri(); ?>/library/images/zip_icon.png" />
                 <input id="js_zipcode__header" type="tel" placeholder="Zip Code" />
             </div>
-            <button id="js_get_quote__header">Let's get started</button>
+            <button id="js_get_quote__header">Let's get started!</button>
             <!-- https://quotes.elephant.com/#/postal-landing/23233 -->
         </div>
         <div class="js_header_error error-box d-none">
