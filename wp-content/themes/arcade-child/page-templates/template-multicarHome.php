@@ -58,6 +58,8 @@ CUSTOM FIELD LIST
 
 <div class="elephant">
 
+
+
     <div class="hero">
         <div class="page-headline pageheadline-lg"><?php echo the_field('hero_title'); ?></div>
         <div class="page-headline pageheadline-sm"><?php echo the_field('hero_mobile_title'); ?></div>
