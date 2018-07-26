@@ -1,0 +1,6 @@
+wpengine {
+  WPENGINE_PROD_ENV = 'git@git.wpengine.com:production/elephantdev.git'
+  REPO_URL = 'https://github.com/WebD00D/Elephant_Jenkins'
+  REPO_CRED_ID = '23521821-cee7-4653-b0fb-39cdda232281'
+  DEBUG = 'true'
+}
